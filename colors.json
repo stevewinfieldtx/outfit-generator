@@ -1,0 +1,5502 @@
+[
+  {
+    "comboName": "Off-White Top + Cream Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Warm Beige Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Taupe Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Light Gray Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Black Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Navy Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Camel Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Terracotta Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Rust Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Coral Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Peach Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Brick Red Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Burgundy Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Goldenrod Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Amber Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Copper Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Blush Pink Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Salmon Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Cinnamon Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Marigold Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Teal Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Forest Green Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Olive Green Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Sage Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Mint Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Aqua Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Indigo Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Lavender Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Periwinkle Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Slate Blue Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Steel Blue Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Deep Purple Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Cool Gray Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Powder Blue Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Lilac Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Soft Mint Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Powder Pink Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Sky Blue Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Peach Puff Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Light Coral Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Ice Blue Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Off-White Top + Blush Bottom",
+    "top": {
+      "color": "Off-White",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Off-White Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Warm Beige Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Taupe Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Light Gray Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Black Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Navy Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Camel Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Cream Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Terracotta Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Rust Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Coral Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Peach Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Brick Red Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Burgundy Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Goldenrod Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Amber Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Copper Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Blush Pink Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Salmon Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Cinnamon Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Marigold Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Cream Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Teal Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Forest Green Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Olive Green Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Sage Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Mint Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Aqua Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Indigo Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Lavender Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Periwinkle Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Slate Blue Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Steel Blue Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Deep Purple Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Cool Gray Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Powder Blue Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Cream Top + Lilac Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Soft Mint Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Powder Pink Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Sky Blue Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Peach Puff Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Light Coral Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Ice Blue Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Cream Top + Blush Bottom",
+    "top": {
+      "color": "Cream",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Off-White Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Cream Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Taupe Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Light Gray Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Black Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Navy Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Camel Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Terracotta Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Rust Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Coral Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Peach Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Brick Red Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Burgundy Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Goldenrod Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Amber Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Copper Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Blush Pink Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Salmon Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Cinnamon Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Marigold Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Teal Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Forest Green Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Olive Green Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Sage Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Mint Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Aqua Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Indigo Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Lavender Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Periwinkle Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Slate Blue Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Steel Blue Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Deep Purple Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Cool Gray Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Powder Blue Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Lilac Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Soft Mint Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Powder Pink Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Sky Blue Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Peach Puff Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Light Coral Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Ice Blue Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Warm Beige Top + Blush Bottom",
+    "top": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Off-White Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Cream Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Warm Beige Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Light Gray Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Black Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Navy Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Camel Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Terracotta Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Rust Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Coral Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Peach Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Brick Red Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Burgundy Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Goldenrod Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Amber Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Copper Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Blush Pink Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Salmon Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Cinnamon Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Marigold Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Teal Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Forest Green Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Olive Green Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Sage Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Mint Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Aqua Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Indigo Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Lavender Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Periwinkle Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Slate Blue Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Steel Blue Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Deep Purple Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Cool Gray Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Powder Blue Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Lilac Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Soft Mint Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Powder Pink Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Sky Blue Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Peach Puff Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Light Coral Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Ice Blue Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Taupe Top + Blush Bottom",
+    "top": {
+      "color": "Taupe",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Off-White Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Cream Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Warm Beige Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Taupe Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Black Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Navy Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Camel Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Terracotta Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Rust Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Coral Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Peach Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Brick Red Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Burgundy Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Goldenrod Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Amber Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Copper Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Blush Pink Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Salmon Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Cinnamon Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Marigold Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Teal Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Forest Green Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Olive Green Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Sage Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Mint Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Aqua Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Indigo Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Lavender Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Periwinkle Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Slate Blue Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Steel Blue Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Deep Purple Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Cool Gray Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Powder Blue Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Lilac Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Soft Mint Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Powder Pink Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Sky Blue Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Peach Puff Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Light Coral Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Ice Blue Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Light Gray Top + Blush Bottom",
+    "top": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Off-White Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Cream Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Warm Beige Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Taupe Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Light Gray Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Black Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Navy Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Camel Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Terracotta Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Rust Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Coral Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Peach Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Brick Red Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Burgundy Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Goldenrod Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Amber Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Copper Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Blush Pink Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Salmon Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Cinnamon Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Marigold Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Teal Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Forest Green Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Olive Green Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Sage Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Mint Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Aqua Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Indigo Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Lavender Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Periwinkle Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Slate Blue Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Steel Blue Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Deep Purple Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Cool Gray Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Powder Blue Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Lilac Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Soft Mint Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Powder Pink Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Sky Blue Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Peach Puff Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Light Coral Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Ice Blue Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Charcoal Gray Top + Blush Bottom",
+    "top": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Off-White Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Cream Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Warm Beige Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Taupe Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Light Gray Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Navy Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Camel Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Black Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Terracotta Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Rust Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Coral Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Peach Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Brick Red Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Burgundy Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Goldenrod Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Amber Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Copper Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Blush Pink Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Salmon Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Cinnamon Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Marigold Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Black Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Teal Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Forest Green Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Olive Green Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Sage Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Mint Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Aqua Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Indigo Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Lavender Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Periwinkle Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Slate Blue Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Steel Blue Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Deep Purple Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Cool Gray Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Powder Blue Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Black Top + Lilac Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Soft Mint Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Powder Pink Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Sky Blue Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Peach Puff Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Light Coral Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Ice Blue Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Black Top + Blush Bottom",
+    "top": {
+      "color": "Black",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Off-White Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Cream Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Warm Beige Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Taupe Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Light Gray Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Black Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Camel Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Navy Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Terracotta Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Rust Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Coral Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Peach Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Brick Red Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Burgundy Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Goldenrod Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Amber Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Copper Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Blush Pink Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Salmon Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Cinnamon Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Marigold Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Navy Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Teal Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Forest Green Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Olive Green Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Sage Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Mint Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Aqua Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Indigo Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Lavender Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Periwinkle Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Slate Blue Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Steel Blue Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Deep Purple Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Cool Gray Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Powder Blue Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Navy Top + Lilac Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Soft Mint Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Powder Pink Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Sky Blue Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Peach Puff Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Light Coral Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Ice Blue Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Navy Top + Blush Bottom",
+    "top": {
+      "color": "Navy",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Off-White Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Cream Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Warm Beige Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Taupe Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Light Gray Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Black Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Navy Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Camel Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Terracotta Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Rust Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Coral Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Peach Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Brick Red Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Burgundy Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Goldenrod Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Amber Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Copper Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Blush Pink Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Salmon Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Cinnamon Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Marigold Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Camel Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Teal Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Forest Green Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Olive Green Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Sage Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Mint Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Aqua Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Indigo Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Lavender Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Periwinkle Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Slate Blue Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Steel Blue Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Deep Purple Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Cool Gray Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Powder Blue Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Camel Top + Lilac Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Soft Mint Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Powder Pink Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Sky Blue Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Peach Puff Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Light Coral Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Ice Blue Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Camel Top + Blush Bottom",
+    "top": {
+      "color": "Camel",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Off-White Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Cream Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Warm Beige Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Taupe Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Light Gray Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Black Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Navy Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Camel Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Mustard Yellow Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Burnt Orange Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burnt Orange",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Terracotta Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Terracotta",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Rust Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rust",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Coral Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Coral",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Peach Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Brick Red Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Brick Red",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Burgundy Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Burgundy",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Goldenrod Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Goldenrod",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Amber Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Amber",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Copper Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Copper",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Blush Pink Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush Pink",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Salmon Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Salmon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Cinnamon Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cinnamon",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Marigold Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Marigold",
+      "group": "Warm"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Dusty Blue Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Dusty Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Teal Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Teal",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Forest Green Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Forest Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Olive Green Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Olive Green",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Sage Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sage",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Mint Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Mint",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Aqua Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Aqua",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Indigo Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Indigo",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Lavender Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lavender",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Periwinkle Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Periwinkle",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Slate Blue Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Slate Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Steel Blue Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Steel Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Deep Purple Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Deep Purple",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Cool Gray Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Cool Gray",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Powder Blue Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Blue",
+      "group": "Cool"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Lilac Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Lilac",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Rose Quartz Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Rose Quartz",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Soft Mint Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Soft Mint",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Powder Pink Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Powder Pink",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Pale Yellow Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Pale Yellow",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Sky Blue Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Sky Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Peach Puff Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Peach Puff",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Light Coral Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Light Coral",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Ice Blue Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Ice Blue",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Chocolate Brown Top + Blush Bottom",
+    "top": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    },
+    "bottom": {
+      "color": "Blush",
+      "group": "Accent"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Off-White Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Off-White",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Cream Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Cream",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Warm Beige Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Warm Beige",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Taupe Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Taupe",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Light Gray Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Light Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Charcoal Gray Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Charcoal Gray",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Black Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Black",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Navy Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Navy",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Camel Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Camel",
+      "group": "Neutral"
+    }
+  },
+  {
+    "comboName": "Mustard Yellow Top + Chocolate Brown Bottom",
+    "top": {
+      "color": "Mustard Yellow",
+      "group": "Warm"
+    },
+    "bottom": {
+      "color": "Chocolate Brown",
+      "group": "Neutral"
+    }
+  }
+]

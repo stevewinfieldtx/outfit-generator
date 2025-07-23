@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "category": "Feet Visible",
+    "variant": 1,
+    "prompt": "standing barefoot on sunlit patio, toes clearly visible, feet flat and grounded, soft shadows from morning light"
+  },
+  {
+    "id": 2,
+    "category": "Feet Visible",
+    "variant": 2,
+    "prompt": "seated on low wall, barefoot with feet fully in frame, legs relaxed forward, natural dirt and texture on soles"
+  },
+  {
+    "id": 3,
+    "category": "Feet Visible",
+    "variant": 3,
+    "prompt": "walking barefoot through grass, feet completely visible, natural toe spread, sunlight catching arches"
+  },
+  {
+    "id": 4,
+    "category": "Feet Focus",
+    "variant": 1,
+    "prompt": "lying on stomach with feet in foreground, toes curled, shallow depth of field blurring upper body"
+  },
+  {
+    "id": 5,
+    "category": "Feet Focus",
+    "variant": 2,
+    "prompt": "seated on edge of bench, one foot extended toward camera, focus on toes and sole, background softly blurred"
+  },
+  {
+    "id": 6,
+    "category": "Feet Focus",
+    "variant": 3,
+    "prompt": "standing in sand with feet pressed into surface, camera low, feet crisp and detailed, upper body softened"
+  },
+  {
+    "id": 7,
+    "category": "Nipples Hinted",
+    "variant": 1,
+    "prompt": "sheer tank top clinging to chest, nipples faintly visible due to cool air, arms raised in stretch"
+  },
+  {
+    "id": 8,
+    "category": "Nipples Hinted",
+    "variant": 2,
+    "prompt": "thin cotton shirt after jog, fabric dampened, nipples subtly outlined under sunlight"
+  },
+  {
+    "id": 9,
+    "category": "Nipples Hinted",
+    "variant": 3,
+    "prompt": "wearing tight ribbed shirt with no bra, soft light grazing chest, natural shape showing through"
+  },
+  {
+    "id": 10,
+    "category": "Side-Boob",
+    "variant": 1,
+    "prompt": "loose tank top with open sides, subject angled sideways, one arm lifted, side-breast curve visible"
+  },
+  {
+    "id": 11,
+    "category": "Side-Boob",
+    "variant": 2,
+    "prompt": "halter top slipping slightly under arm, sitting with torso twisted toward light, breast curve exposed subtly"
+  },
+  {
+    "id": 12,
+    "category": "Side-Boob",
+    "variant": 3,
+    "prompt": "one-shoulder top falling loosely, side profile revealing soft skin and side-breast line, soft window light"
+  },
+  {
+    "id": 13,
+    "category": "Lower Butt Curve",
+    "variant": 1,
+    "prompt": "sitting on edge of chair in short skirt, lower curve of glutes visible where fabric rides up"
+  },
+  {
+    "id": 14,
+    "category": "Lower Butt Curve",
+    "variant": 2,
+    "prompt": "leaning over table in fitted shorts, bottom edge exposing under-butt crease, warm directional light"
+  },
+  {
+    "id": 15,
+    "category": "Lower Butt Curve",
+    "variant": 3,
+    "prompt": "walking upstairs in tight dress, hem lifting just enough to show bottom glute curve, cinematic angle"
+  },
+  {
+    "id": 16,
+    "category": "Silhouette Sexy",
+    "variant": 1,
+    "prompt": "backlit in sheer dress, body outlined in shadow, arms stretched overhead, curves softly glowing"
+  },
+  {
+    "id": 17,
+    "category": "Silhouette Sexy",
+    "variant": 2,
+    "prompt": "standing in front of curtain with sunlight behind, shape outlined clearly through thin fabric"
+  },
+  {
+    "id": 18,
+    "category": "Silhouette Sexy",
+    "variant": 3,
+    "prompt": "kneeling in silhouette with sheer robe, legs apart slightly, soft glow outlining entire form"
+  },
+  {
+    "id": 19,
+    "category": "Panty Line Visible",
+    "variant": 1,
+    "prompt": "fitted yoga pants stretched in seated pose, panty outline faintly visible under thin fabric"
+  },
+  {
+    "id": 20,
+    "category": "Panty Line Visible",
+    "variant": 2,
+    "prompt": "sheer skirt blowing slightly in breeze, underwear lines gently traced through fabric"
+  },
+  {
+    "id": 21,
+    "category": "Panty Line Visible",
+    "variant": 3,
+    "prompt": "tight dress pressed against hip curve, natural light revealing subtle panty edge detail"
+  },
+  {
+    "id": 22,
+    "category": "Clothing Tease",
+    "variant": 1,
+    "prompt": "lifting shirt playfully with both hands, revealing toned stomach and panty waistband, flirty smirk"
+  },
+  {
+    "id": 23,
+    "category": "Clothing Tease",
+    "variant": 2,
+    "prompt": "tugging skirt upward while laughing, playful pose, undergarment edge barely peeking out"
+  },
+  {
+    "id": 24,
+    "category": "Clothing Tease",
+    "variant": 3,
+    "prompt": "leaning back on hands, top slid up naturally by pose, lower belly and waistband exposed"
+  },
+  {
+    "id": 25,
+    "category": "Cameltoe Hint",
+    "variant": 1,
+    "prompt": "tight shorts stretched in lunging pose, subtle fabric tension showing shape, focus on hip line"
+  },
+  {
+    "id": 26,
+    "category": "Cameltoe Hint",
+    "variant": 2,
+    "prompt": "standing pose in form-fitting yoga pants, soft front lighting revealing natural central fold"
+  },
+  {
+    "id": 27,
+    "category": "Cameltoe Hint",
+    "variant": 3,
+    "prompt": "straddling position on low bench, thin leggings showing light outline, relaxed casual expression"
+  },
+  {
+    "id": 28,
+    "category": "Mirror Tease",
+    "variant": 1,
+    "prompt": "over-the-shoulder mirror view, subject facing camera, reflection shows butt in thong"
+  },
+  {
+    "id": 29,
+    "category": "Mirror Tease",
+    "variant": 2,
+    "prompt": "full-body mirror reflection behind seated subject, legs spread slightly, lingerie in rear view"
+  },
+  {
+    "id": 30,
+    "category": "Mirror Tease",
+    "variant": 3,
+    "prompt": "mirror placed at floor level, subject kneeling with reflection showing back and butt, cinematic depth"
+  },
+  {
+    "id": 31,
+    "category": "Shoes Off",
+    "variant": 1,
+    "prompt": "walking barefoot on warm sidewalk, shoes held casually in one hand, both visible, relaxed summer energy"
+  },
+  {
+    "id": 32,
+    "category": "Shoes Off",
+    "variant": 2,
+    "prompt": "barefoot in short summer dress, stepping off curb, both heels dangling from right hand, natural sunlight casting long shadows"
+  },
+  {
+    "id": 33,
+    "category": "Shoes Off",
+    "variant": 3,
+    "prompt": "walking barefoot across grass, two flats held by fingers, relaxed pose, toes flexing in soft ground, candid motion"
+  },
+  {
+    "id": 34,
+    "category": "Shoes Carried",
+    "variant": 1,
+    "prompt": "standing barefoot on city street, shoes clutched in one hand at side, looking away, golden hour light"
+  },
+  {
+    "id": 35,
+    "category": "Shoes Carried",
+    "variant": 2,
+    "prompt": "walking barefoot along beach boardwalk, shoes held together by straps in left hand, dress fluttering in ocean breeze"
+  },
+  {
+    "id": 36,
+    "category": "Shoes Carried",
+    "variant": 3,
+    "prompt": "barefoot and smiling, holding both sneakers by laces in one hand, walking across plaza, full-body natural movement"
+  },
+  {
+    "id": 37,
+    "category": "Shoe Play",
+    "variant": 1,
+    "prompt": "pausing barefoot at edge of stairs, flats dangling loosely from fingertips, relaxed confident pose, urban background"
+  },
+  {
+    "id": 38,
+    "category": "Shoe Play",
+    "variant": 2,
+    "prompt": "one hand gently gripping both ankle boots, barefoot and walking toward camera, toes splaying naturally, sunlight catching skin"
+  },
+  {
+    "id": 39,
+    "category": "Shoe Play",
+    "variant": 3,
+    "prompt": "back turned while barefoot on sidewalk, holding pair of heels behind back in both hands, sun casting silhouette"
+  },
+  {
+    "id": 40,
+    "category": "Dirty Feet",
+    "variant": 1,
+    "prompt": "feet dirty from walking barefoot, shoes looped together and carried in one hand, casual confident stride, soft glow lighting"
+  },
+  {
+    "id": 41,
+    "category": "Dirty Feet",
+    "variant": 2,
+    "prompt": "barefoot on gravel path, toes covered in dust, natural barefoot realism, backlit golden hour"
+  },
+  {
+    "id": 42,
+    "category": "Dirty Feet",
+    "variant": 3,
+    "prompt": "sitting on park bench, soles visibly dirty, feet resting on grass, casual posture with sandals in lap"
+  },
+  {
+    "id": 43,
+    "category": "Outdoor Side-Boob",
+    "variant": 1,
+    "prompt": "wearing loose tank top on hiking trail, arm raised to adjust hair, side-breast curve visible through open side, sun creating warm highlight"
+  },
+  {
+    "id": 44,
+    "category": "Outdoor Side-Boob",
+    "variant": 2,
+    "prompt": "lounging in park chair, halter top gaping slightly under arm, soft ambient light catching curve of exposed skin, candid pose"
+  },
+  {
+    "id": 45,
+    "category": "Outdoor Side-Boob",
+    "variant": 3,
+    "prompt": "reaching into trunk of car, loose side of tank exposing natural side-boob, low sunlight casting long shadow across body, casual road trip energy"
+  },
+  {
+    "id": 46,
+    "category": "Outdoor Nipples Hinted",
+    "variant": 1,
+    "prompt": "sheer crop top worn without bra, sunlight shining directly across chest, subtle contour of nipples visible, standing under tree canopy"
+  },
+  {
+    "id": 47,
+    "category": "Outdoor Nipples Hinted",
+    "variant": 2,
+    "prompt": "thin fabric tank top clinging to chest during sunrise walk, cool air slightly tightening fabric, backlit for natural transparency"
+  },
+  {
+    "id": 48,
+    "category": "Outdoor Nipples Hinted",
+    "variant": 3,
+    "prompt": "loose cotton top after light jog, sweat pattern revealing shape, nipples subtly visible through fabric in soft evening light"
+  },
+  {
+    "id": 49,
+    "category": "Outdoor Feet Visible",
+    "variant": 1,
+    "prompt": "standing barefoot on sunlit balcony, one foot slightly lifted, toes relaxed, shadow play on ground, natural pose"
+  },
+  {
+    "id": 50,
+    "category": "Outdoor Feet Visible",
+    "variant": 2,
+    "prompt": "sitting on grassy hill, feet fully visible with dirt and grass texture, relaxed posture, warm morning light"
+  },
+  {
+    "id": 51,
+    "category": "Outdoor Feet Visible",
+    "variant": 3,
+    "prompt": "walking barefoot on cobbled path, toes naturally spaced, feet clear in frame, warm street lighting and candid vibe"
+  },
+  {
+    "id": 52,
+    "category": "Outdoor Lower Butt Curve",
+    "variant": 1,
+    "prompt": "bending slightly to pick up a book bag, short skirt riding up just enough to expose under-glute curve, golden late afternoon light"
+  },
+  {
+    "id": 53,
+    "category": "Outdoor Lower Butt Curve",
+    "variant": 2,
+    "prompt": "sitting on park bench, fitted shorts pulled slightly by seated angle, lower cheeks visible, casual summer scene"
+  },
+  {
+    "id": 54,
+    "category": "Outdoor Lower Butt Curve",
+    "variant": 3,
+    "prompt": "ascending garden stairs in slim dress, hem lifted subtly at back, bottom-of-butt softly exposed, backlit silhouette"
+  },
+  {
+    "id": 55,
+    "category": "Outdoor Mirror Tease",
+    "variant": 1,
+    "prompt": "subject facing mirror placed outdoors, over-the-shoulder angle showing full back and butt in reflection, surrounded by greenery"
+  },
+  {
+    "id": 56,
+    "category": "Outdoor Mirror Tease",
+    "variant": 2,
+    "prompt": "mirror on patio wall, subject seated with knees drawn up, reflection showing exposed thigh and partially lifted dress"
+  },
+  {
+    "id": 57,
+    "category": "Outdoor Mirror Tease",
+    "variant": 3,
+    "prompt": "standing barefoot on porch, back to mirror, reflection reveals cheeky glimpse under skirt, cinematic golden hour light"
+  },
+  {
+    "id": 58,
+    "category": "Outdoor Silhouette Sexy",
+    "variant": 1,
+    "prompt": "subject backlit by setting sun, sheer summer dress outlining curves, arms above head, full silhouette in frame"
+  },
+  {
+    "id": 59,
+    "category": "Outdoor Silhouette Sexy",
+    "variant": 2,
+    "prompt": "strong sunset lighting behind, side-facing pose in translucent dress, curves traced in orange glow, wind gently lifting fabric"
+  },
+  {
+    "id": 60,
+    "category": "Outdoor Silhouette Sexy",
+    "variant": 3,
+    "prompt": "posed against sunrise, long sheer robe flowing, entire body silhouetted with soft highlights defining hips and bust"
+  },
+  {
+    "id": 61,
+    "category": "Outdoor Clothing Tease",
+    "variant": 1,
+    "prompt": "standing in garden, oversized shirt lifted just enough to expose lower belly and panty waistband, warm light on skin"
+  },
+  {
+    "id": 62,
+    "category": "Outdoor Clothing Tease",
+    "variant": 2,
+    "prompt": "leaning on balcony railing, one hand tugging hem of dress upward, revealing top of thigh and hint of panties"
+  },
+  {
+    "id": 63,
+    "category": "Outdoor Clothing Tease",
+    "variant": 3,
+    "prompt": "seated in park, shirt bunched naturally by crossed arms, lower belly and skin above waistband visible, casual playful look"
+  },
+  {
+    "id": 64,
+    "category": "Outdoor Cameltoe Hint",
+    "variant": 1,
+    "prompt": "tight yoga pants during outdoor stretch, frontal lighting gently outlining natural shape, realistic body contour"
+  },
+  {
+    "id": 65,
+    "category": "Outdoor Cameltoe Hint",
+    "variant": 2,
+    "prompt": "standing in fitted shorts, hip slightly angled forward, thin fabric tracing center line subtly, bright day light"
+  },
+  {
+    "id": 66,
+    "category": "Outdoor Cameltoe Hint",
+    "variant": 3,
+    "prompt": "mid-lunge position on trail, spandex fabric naturally tensioned across pelvis, body framed in forest light"
+  },
+  {
+    "id": 67,
+    "category": "Outdoor Panty Line Visible",
+    "variant": 1,
+    "prompt": "tight cotton skirt in bright daylight, panty line faintly visible across backside, casual walking motion"
+  },
+  {
+    "id": 68,
+    "category": "Outdoor Panty Line Visible",
+    "variant": 2,
+    "prompt": "sheer sundress blown lightly by breeze, visible undergarment contour through fabric, toes visible on pavement"
+  },
+  {
+    "id": 69,
+    "category": "Outdoor Panty Line Visible",
+    "variant": 3,
+    "prompt": "standing by parked bicycle in clingy dress, sunlight casting gentle shadows over hip and panty outline"
+  },
+  {
+    "id": 70,
+    "category": "Public Feet Play",
+    "variant": 1,
+    "prompt": "barefoot at café patio, feet on chair rung, toes curled casually, sandals placed beneath chair, candid sunlit angle"
+  },
+  {
+    "id": 71,
+    "category": "Public Feet Play",
+    "variant": 2,
+    "prompt": "sitting at fountain edge, dipping feet into water, camera catching soles and ankles, city plaza backdrop"
+  },
+  {
+    "id": 72,
+    "category": "Public Feet Play",
+    "variant": 3,
+    "prompt": "feet out of car window at rest stop, crossed ankles, chipped polish and dust on soles, highway setting in background"
+  },
+  {
+    "id": 73,
+    "category": "Public Dirty Feet",
+    "variant": 1,
+    "prompt": "barefoot on cobblestone street, feet dusty and worn, both shoes in hand, confident walk in summer dress"
+  },
+  {
+    "id": 74,
+    "category": "Public Dirty Feet",
+    "variant": 2,
+    "prompt": "walking barefoot across parking lot, soles blackened subtly, holding flats casually, late day urban lighting"
+  },
+  {
+    "id": 75,
+    "category": "Public Dirty Feet",
+    "variant": 3,
+    "prompt": "relaxing barefoot on brick steps, soles visibly darkened from walking, shoes resting beside her, smile playful"
+  },
+  {
+    "id": 76,
+    "category": "Outdoor Over-the-Shoulder Tease",
+    "variant": 1,
+    "prompt": "looking back over shoulder while walking away, halter top slipping on one side, soft grin, long shadows on sidewalk"
+  },
+  {
+    "id": 77,
+    "category": "Outdoor Over-the-Shoulder Tease",
+    "variant": 2,
+    "prompt": "posed in field, shirt slipping off both shoulders, bare back visible, turning slightly to glance back"
+  },
+  {
+    "id": 78,
+    "category": "Outdoor Over-the-Shoulder Tease",
+    "variant": 3,
+    "prompt": "urban rooftop at dusk, loose jacket sliding off one arm, head turned back with soft expression, skyline behind"
+  },
+  {
+    "id": 79,
+    "category": "Outdoor Stretch Pose",
+    "variant": 1,
+    "prompt": "arms above head stretch under soft sunlight, ribcage and waist exposed, shirt rising naturally, standing on balcony"
+  },
+  {
+    "id": 80,
+    "category": "Outdoor Stretch Pose",
+    "variant": 2,
+    "prompt": "seated on blanket in park, stretch causing tank top to rise, exposing lower midriff, soft morning light"
+  },
+  {
+    "id": 81,
+    "category": "Outdoor Stretch Pose",
+    "variant": 3,
+    "prompt": "leaning against tree in woods, arms above head, crop top lifted slightly, curves catching warm late light"
+  },
+  {
+    "id": 82,
+    "category": "Outdoor Flirty Eyes",
+    "variant": 1,
+    "prompt": "close-up outdoors with soft natural light, subject gazing over sunglasses, soft half-smile and mischievous eyes"
+  },
+  {
+    "id": 83,
+    "category": "Outdoor Flirty Eyes",
+    "variant": 2,
+    "prompt": "park bench setting, leaning on one elbow, head tilted with eyes looking directly at viewer, warm dappled light"
+  },
+  {
+    "id": 84,
+    "category": "Outdoor Flirty Eyes",
+    "variant": 3,
+    "prompt": "leaning against railing, chin resting on hand, subtle smirk, eyes sparkling, blurred cityscape behind"
+  },
+  {
+    "id": 85,
+    "category": "Outdoor Lying on Stomach",
+    "variant": 1,
+    "prompt": "lying on stomach in grassy field, feet lifted slightly, shirt riding up over back, sunlight through trees"
+  },
+  {
+    "id": 86,
+    "category": "Outdoor Lying on Stomach",
+    "variant": 2,
+    "prompt": "beach towel pose on sand, head turned to side, back bare above waistband, playful relaxed vibe"
+  },
+  {
+    "id": 87,
+    "category": "Outdoor Lying on Stomach",
+    "variant": 3,
+    "prompt": "on rooftop lounge cushion, feet in air, sun across bare back and upper thighs, swimsuit barely in frame"
+  },
+  {
+    "id": 88,
+    "category": "Outdoor Candid Clothing Shift",
+    "variant": 1,
+    "prompt": "caught mid-laugh tugging shirt down over waistband, bare skin exposed, wind lifting hem slightly"
+  },
+  {
+    "id": 89,
+    "category": "Outdoor Candid Clothing Shift",
+    "variant": 2,
+    "prompt": "shirt falling off shoulder while turning, camera catching natural motion, collarbone and strap visible"
+  },
+  {
+    "id": 90,
+    "category": "Outdoor Candid Clothing Shift",
+    "variant": 3,
+    "prompt": "skirt caught in breeze while adjusting bag strap, glimpse of thigh revealed naturally, golden hour tone"
+  },
+  {
+    "id": 91,
+    "category": "Outdoor Skirt Play",
+    "variant": 1,
+    "prompt": "spinning gently in skirt, fabric lifted slightly mid-twirl, under curve just visible, joyful expression"
+  },
+  {
+    "id": 92,
+    "category": "Outdoor Skirt Play",
+    "variant": 2,
+    "prompt": "sitting sideways on bench, short skirt pulling naturally, legs angled toward camera, subtle tease"
+  },
+  {
+    "id": 93,
+    "category": "Outdoor Skirt Play",
+    "variant": 3,
+    "prompt": "walking up grassy slope in short dress, hem lifted gently by angle, light catching thighs and motion"
+  },
+  {
+    "id": 94,
+    "category": "Outdoor Breezy Shirt",
+    "variant": 1,
+    "prompt": "oversized shirt caught in breeze, lifted off back revealing skin, candid motion, sunshine wrapping figure"
+  },
+  {
+    "id": 95,
+    "category": "Outdoor Breezy Shirt",
+    "variant": 2,
+    "prompt": "shirt slipping naturally as arm reaches out, one shoulder exposed, garden flowers in background"
+  },
+  {
+    "id": 96,
+    "category": "Outdoor Breezy Shirt",
+    "variant": 3,
+    "prompt": "shirt unbuttoned casually, mid-stride with breeze opening fabric across chest, confident playful energy"
+  },
+  {
+    "id": 97,
+    "category": "Outdoor Barefoot Tease",
+    "variant": 1,
+    "prompt": "barefoot on rooftop, walking toward camera with relaxed body language, shoes in one hand, soft evening haze"
+  },
+  {
+    "id": 98,
+    "category": "Outdoor Barefoot Tease",
+    "variant": 2,
+    "prompt": "walking down sidewalk barefoot, subtle arch in stride, shirt off shoulder and panty line hinted"
+  },
+  {
+    "id": 99,
+    "category": "Outdoor Barefoot Tease",
+    "variant": 3,
+    "prompt": "barefoot at café, feet crossed at ankle, shirt pulled down playfully at back, flirty over-the-shoulder smile"
+  },
+  {
+    "id": 100,
+    "category": "Outdoor Ambient Seduction",
+    "variant": 1,
+    "prompt": "golden hour street scene, sheer dress gently illuminated, toes visible, playful body language with dreamy energy"
+  }
+]

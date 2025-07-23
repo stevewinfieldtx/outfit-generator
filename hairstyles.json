@@ -1,0 +1,140 @@
+[
+    {
+        "label": "Work",
+        "type": "group",
+        "options": [
+            "Sleek Low Bun",
+            "Straight with Center Parting",
+            "Classic Face-Framing Layers",
+            "Low Chignon",
+            "French Twist"
+        ]
+    },
+    {
+        "label": "Casual",
+        "type": "group",
+        "options": [
+            "Beach Waves",
+            "Half-Up Twists",
+            "Messy Top Knot",
+            "Loose Braids",
+            "Ponytail with Scarf",
+            "Space Buns"
+        ]
+    },
+    {
+        "label": "Date",
+        "type": "group",
+        "options": [
+            "Hollywood Glam Curls",
+            "Romantic Side Ponytail",
+            "Loose Waves with Curtain Bangs",
+            "Half-Up Bouffant",
+            "Braided Crown"
+        ]
+    },
+    {
+        "label": "Clubbing",
+        "type": "group",
+        "options": [
+            "High Ponytail",
+            "Slicked-Back High Ponytail",
+            "Braided Crown",
+            "Bubble Ponytail",
+            "Space Buns"
+        ]
+    },
+    {
+        "label": "Fun",
+        "type": "group",
+        "options": [
+            "Bubble Ponytail",
+            "Space Buns",
+            "Colorful Braids",
+            "Half-Up Bun",
+            "Messy Pigtails"
+        ]
+    },
+    {
+        "label": "Day",
+        "type": "group",
+        "options": [
+            "Loose Braids",
+            "Low Ponytail",
+            "Half-Up Bun",
+            "Side Braid",
+            "Top Knot",
+            "High Ponytail"
+        ]
+    },
+    {
+        "label": "Night",
+        "type": "group",
+        "options": [
+            "Elegant Chignon",
+            "Side-Swept Curls",
+            "Sleek Straight Hair",
+            "Twisted Updo",
+            "Voluminous Waves",
+            "Hollywood Glam Curls"
+        ]
+    },
+    {
+        "label": "Sleek Low Bun",
+        "type": "style",
+        "description": "A polished, low-maintenance style that keeps hair tidy and professional.",
+        "categories": [
+            "Work"
+        ]
+    },
+    {
+        "label": "Messy Top Knot",
+        "type": "style",
+        "description": "A relaxed updo that keeps hair off the face, perfect for casual outings.",
+        "categories": [
+            "Casual",
+            "Fun",
+            "Day"
+        ]
+    },
+    {
+        "label": "High Ponytail",
+        "type": "style",
+        "description": "A sleek and voluminous ponytail positioned high on the head.",
+        "categories": [
+            "Clubbing",
+            "Fun",
+            "Day"
+        ]
+    },
+    {
+        "label": "Braided Crown",
+        "type": "style",
+        "description": "An ethereal updo where braids are wrapped around the head like a crown.",
+        "categories": [
+            "Date",
+            "Clubbing",
+            "Fun"
+        ]
+    },
+    {
+        "label": "Hollywood Glam Curls",
+        "type": "style",
+        "description": "Voluminous, polished curls reminiscent of classic Hollywood starlets.",
+        "categories": [
+            "Date",
+            "Night",
+            "Clubbing"
+        ]
+    },
+    {
+        "label": "Straight with Center Parting",
+        "type": "style",
+        "description": "Minimalistic style with straight hair parted down the center.",
+        "categories": [
+            "Work",
+            "Casual",
+            "Night"
+        ]
+    }
+]
